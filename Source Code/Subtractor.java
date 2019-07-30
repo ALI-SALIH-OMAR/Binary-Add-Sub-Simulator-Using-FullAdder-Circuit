@@ -1,11 +1,11 @@
-/******************************************************************************************************************************************************
- * A simple pseudocode for this class (i.e its function):																							  *
- * 	1. We'll first take two integer numbers based on which one is greater than the other.															  *
- *  2. Execute similar steps as we executed in class-IntAdder																						  *
- *  3. We'll use IntAdder object to run IntAdder and compute the subtraction using addition.														  *
- * 	4. In the end step i.e output part - we'll print result of case A<B by just computing for case A>B and then displaying a -ve sign in the result.  *
- * 	5. Note: Refer class-IntAdder pseudocode for details. 																						      *
- ******************************************************************************************************************************************************/
+/********************************************************************************************************************************************************
+ * A simple pseudocode for this class (i.e its function):											        *											  *
+ * 	1. We'll first take two integer numbers based on which one is greater than the other.							        *
+ *  	2. Execute similar steps as we executed in class-IntAdder									                *									  
+ * 	3. We'll use IntAdder object to run IntAdder and compute the subtraction using addition.						        *
+ * 	4. In the end step i.e output part - we'll print result of case A<B by just computing for case A>B and then displaying a -ve sign in the result *
+ * 	5. Note: Refer class-IntAdder pseudocode for details. 											        *
+ ********************************************************************************************************************************************************/
 
 
 
