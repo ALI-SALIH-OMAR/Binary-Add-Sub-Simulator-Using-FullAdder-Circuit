@@ -1,8 +1,8 @@
 /*********************************************************************************************************************
- * A simple pseudocode for this class (i.e its function):															 *
- *	1. Take the values of A & B in boolean form from class-IntAdder.												 *
- *	2. Perform the full adder operation on A and B and get the sum S in boolean form.							     *
- *  3. Note - Cout becomes the Cin for the next full adder operation (it'll be taken care by class-IntAdder).		 *
+ * A simple pseudocode for this class (i.e its function):							     *							 *
+ *	1. Take the values of A & B in boolean form from class-IntAdder.					     *
+ *	2. Perform the full adder operation on A and B and get the sum S in boolean form.			     *
+ *  	3. Note - Cout becomes the Cin for the next full adder operation (it'll be taken care by class-IntAdder).    *
  *********************************************************************************************************************/
 
 
