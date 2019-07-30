@@ -13,7 +13,7 @@
 
 
 /*******************************************************************************************
- * Quick summary of the Project:                                                           *
+ * Quick summary of the program:                                                           *
  * The program's main aim is to act as a simulator and perform addition & subtraction      *
  * of two positive integer numbers using the full adder circuit (n bits).                  *                                                                                       *
  *******************************************************************************************/
