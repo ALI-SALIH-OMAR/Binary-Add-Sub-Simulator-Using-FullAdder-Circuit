@@ -1,13 +1,13 @@
 /*************************************************************************************************************************************************************
- * A simple pseudocode for this class (i.e its function):																								     *
- * 	1. Take the integers A and B passed from class-SimulatorProject.																						 *
- * 	2. Convert the integers into binary form using the utility class-BinOperations.																			 *
- * 	3. Convert the binary array to a boolean array.																											 *
- * 	4. Pass each element of binary array to class-FullAdder (this class will do the operation i.e bitwise operation).										 *
- * 	5. Store each bitwise result in an array in boolean form.																								 *
- * 	6. Convert the results's array to binary form and convert the binary array to a final integer value (i.e the sum of A and B) using the utility class.    *
- * 	7. Finally display the result (A+B) in integer and binary form based on user's output choice.															 *
- * 	8. Extra(s)	- an overloaded method is present for subtraction (see class-Subtractor for more info).																	 *
+ * A simple pseudocode for this class (i.e its function):												     *
+ * 	1. Take the integers A and B passed from class-SimulatorProject.										     *
+ * 	2. Convert the integers into binary form using the utility class-BinOperations.									     *
+ * 	3. Convert the binary array to a boolean array.													     *													 *
+ * 	4. Pass each element of binary array to class-FullAdder (this class will do the operation i.e bitwise operation).				     *
+ * 	5. Store each bitwise result in an array in boolean form.											     *
+ * 	6. Convert the results's array to binary form and convert the binary array to a final integer value (i.e the sum of A and B) using the utility class.*
+ * 	7. Finally display the result (A+B) in integer and binary form based on user's output choice.							     *
+ * 	8. Extra(s)- an overloaded method is present for subtraction (see class-Subtractor for more info).						     *
  *************************************************************************************************************************************************************/
 
 
@@ -69,7 +69,7 @@ public class IntAdder {
 			else 
 				arrayA_Boolean[i] = false;
 				
-		    // For arrayB:
+		        // For arrayB:
 			if(arrayB[i] == 1)
 				arrayB_Boolean[i] = true;
 			else
