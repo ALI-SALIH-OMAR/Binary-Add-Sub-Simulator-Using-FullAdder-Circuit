@@ -1,7 +1,7 @@
 /***********************************************************************************************************
- * This is the Utility class.																			   *
+ * This is the Utility class.										   *				   *
  * We'll use this class to perform logical operations and conversion of binary to integer and vice versa.  *
- * The logical operations (also called logic gates) used are: AND/OR/NOT/XOR. 							   *
+ * The logical operations (also called logic gates) used are: AND/OR/NOT/XOR. 				   *
  ***********************************************************************************************************/
  
 
