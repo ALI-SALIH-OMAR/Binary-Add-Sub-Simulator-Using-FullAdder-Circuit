@@ -21,10 +21,10 @@
 
 
 /***********************************************************************************
- * A short pseudocode for this class:											   *
- * 	1. Display the menu at the start and store the choices.						   *
- * 	2. Validate the choices and ask for required integers.						   *
- * 	3. Use the classes as per user's choice and finally display the summary.	   *
+ * A short pseudocode for this class:						   *
+ * 	1. Display the menu at the start and store the choices.			   *
+ * 	2. Validate the choices and ask for required integers.			   *
+ * 	3. Use the classes as per user's choice and finally display the summary.   *
  ***********************************************************************************/
 
 
