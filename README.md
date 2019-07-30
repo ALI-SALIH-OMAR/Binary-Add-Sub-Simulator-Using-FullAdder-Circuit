@@ -8,6 +8,6 @@
 * About the source code folder:
   1. SimulatorProject.java - contains the main method.
   2. IntAdder.java - addition is executed.
-  3. Subtractor.java - subtraction is executed using IntAdder class.
+  3. Subtractor.java - subtraction is executed using IntAdder.
   4. FullAdder.java - bitwise operation of full adder circuit is executed.
   5. BinOperations.java - all the logical operations using logic gates are executed.
