@@ -1,4 +1,4 @@
-# FullAdder-Binary-Operations-Simulator
+# Binary-Operations-Simulator
   ICS 102/183 PROJECT
   
 * About the project:
