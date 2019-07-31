@@ -1,4 +1,4 @@
-# Binary-Operations-Simulator
+# Binary-Add-Sub-Simulator-Using-FullAdder-Circuit
   ICS 102/183 PROJECT
   
 * About the project:
